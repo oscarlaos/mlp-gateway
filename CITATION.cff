@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository or its software, please cite the accompanying research work."
+authors:
+  - family-names: "Laos Medina"
+    given-names: "Oscar Alejandro"
+    orcid: "https://orcid.org/0009-0002-4333-7183"
+title: "Nonlinear Operator Composition for Robust Reconstruction of Latent Psychometric Representations under Structured Perturbations"
+version: "1.0.0"
+date-released: "2026-09-22"
+url: "https://github.com/oscarlaos/mlp-gateway"
