@@ -7,4 +7,5 @@ authors:
 title: "Nonlinear Operator Composition for Robust Reconstruction of Latent Psychometric Representations under Structured Perturbations"
 version: "1.0.0"
 date-released: "2026-09-22"
-url: "https://github.com/oscarlaos/mlp-gateway"
+repository-code: "https://github.com/oscarlaos/mlp-gateway"
+doi: "10.5281/zenodo.22908357"
