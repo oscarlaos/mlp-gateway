@@ -8,7 +8,7 @@ Reproducible research package accompanying the preprint:
 **Nonlinear Operator Composition for Robust Reconstruction of Latent Psychometric Representations under Structured Perturbations**
 
 **Author:** Oscar Alejandro Laos Medina  
-**Affiliation:** TheseusSoft S.A.C.  
+**Affiliation:** TheseuSoft S.A.C.  
 **ORCID:** 0009-0002-4333-7183
 
 ## Overview
